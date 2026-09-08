@@ -13,7 +13,7 @@ description: >-
 
 Co-create a folder taxonomy for any Netscape bookmark HTML, then run the bundled script to preview / organize.
 
-`$SKILL` = directory that contains this `SKILL.md` (usually `~/.cursor/skills/bookmark-coorganizer` or `~/.agents/skills/bookmark-coorganizer`). Engine: `$SKILL/scripts/organizer.py`. Never assume an author machine path like `C:\26tag\...`.
+`$SKILL` = directory that contains this `SKILL.md` after install (typically under `~/.cursor/skills/bookmark-coorganizer` or `~/.agents/skills/bookmark-coorganizer`). Engine: `$SKILL/scripts/organizer.py`.
 
 ## Hard rules
 
