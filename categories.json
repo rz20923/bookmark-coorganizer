@@ -1,0 +1,3537 @@
+{
+ "大类顺序": [
+  "搜索与门户",
+  "新闻资讯",
+  "社交与社区",
+  "视频与直播",
+  "音乐与音频",
+  "游戏与电竞",
+  "购物与电商",
+  "美食与生活",
+  "旅游与出行",
+  "医疗与健康",
+  "教育与学习",
+  "金融与理财",
+  "办公与协作",
+  "开发与编程",
+  "AI 人工智能",
+  "设计与创意",
+  "工具与效率",
+  "网盘与存储",
+  "阅读与知识",
+  "壁纸与美化",
+  "政府与公共",
+  "其他"
+ ],
+ "域名映射": {
+  "10jqka.com.cn": [
+   "金融与理财",
+   "股票基金"
+  ],
+  "111.170.11.207:10001": [
+   "工具与效率",
+   "系统工具"
+  ],
+  "115.com": [
+   "网盘与存储",
+   "115网盘"
+  ],
+  "12123.gov.cn": [
+   "政府与公共",
+   "交通管理"
+  ],
+  "12306.cn": [
+   "旅游与出行",
+   "交通票务"
+  ],
+  "12315.cn": [
+   "政府与公共",
+   "政务服务"
+  ],
+  "12333.gov.cn": [
+   "政府与公共",
+   "社会保障"
+  ],
+  "123pan.com": [
+   "网盘与存储",
+   "123云盘"
+  ],
+  "126.com": [
+   "办公与协作",
+   "邮箱"
+  ],
+  "132130.xyz": [
+   "开发与编程",
+   "IPTV与TVBOX"
+  ],
+  "163.com": [
+   "搜索与门户",
+   "综合门户"
+  ],
+  "1688.com": [
+   "购物与电商",
+   "B2B电商"
+  ],
+  "17173.com": [
+   "游戏与电竞",
+   "游戏资讯"
+  ],
+  "172mixdj.com": [
+   "音乐与音频",
+   "音乐工具"
+  ],
+  "21hrs.space": [
+   "工具与效率",
+   "效率小工具"
+  ],
+  "2265.com": [
+   "游戏与电竞",
+   "游戏下载资源"
+  ],
+  "2345.com": [
+   "搜索与门户",
+   "网址导航"
+  ],
+  "2468c.com": [
+   "游戏与电竞",
+   "游戏下载资源"
+  ],
+  "24hbook.store": [
+   "阅读与知识",
+   "电子书库"
+  ],
+  "36kr.com": [
+   "新闻资讯",
+   "科技资讯"
+  ],
+  "39.net": [
+   "医疗与健康",
+   "健康科普"
+  ],
+  "3dmgame.com": [
+   "游戏与电竞",
+   "游戏下载"
+  ],
+  "4275.com": [
+   "网盘与存储",
+   "文件传输"
+  ],
+  "4399.com": [
+   "游戏与电竞",
+   "游戏平台"
+  ],
+  "4kwallpapers.com": [
+   "壁纸与美化",
+   "壁纸网站"
+  ],
+  "51baipiao.cn": [
+   "游戏与电竞",
+   "游戏MOD与工具"
+  ],
+  "51miz.com": [
+   "办公与协作",
+   "PPT与模板"
+  ],
+  "52pojie.cn": [
+   "社交与社区",
+   "技术社区"
+  ],
+  "58.com": [
+   "美食与生活",
+   "生活服务"
+  ],
+  "588ku.com": [
+   "设计与创意",
+   "图库素材"
+  ],
+  "58pic.com": [
+   "设计与创意",
+   "图库素材"
+  ],
+  "996.ninja": [
+   "工具与效率",
+   "效率小工具"
+  ],
+  "999865.xyz": [
+   "工具与效率",
+   "网络工具"
+  ],
+  "abchina.com": [
+   "金融与理财",
+   "银行"
+  ],
+  "accounts.x.ai": [
+   "AI 人工智能",
+   "对话与助手"
+  ],
+  "acfun.cn": [
+   "视频与直播",
+   "在线视频"
+  ],
+  "adobe.com": [
+   "设计与创意",
+   "设计软件"
+  ],
+  "afuketang.com": [
+   "教育与学习",
+   "考试平台"
+  ],
+  "agentskillshub.top": [
+   "AI 人工智能",
+   "技能与生态"
+  ],
+  "ai138.com": [
+   "AI 人工智能",
+   "AI导航"
+  ],
+  "aidub.pro": [
+   "AI 人工智能",
+   "语音与音乐"
+  ],
+  "aigei.com": [
+   "设计与创意",
+   "素材资源"
+  ],
+  "aimakesong.com": [
+   "AI 人工智能",
+   "语音与音乐"
+  ],
+  "aippt.cn": [
+   "AI 人工智能",
+   "AI教程与导航"
+  ],
+  "air.shadiao.pro": [
+   "工具与效率",
+   "效率小工具"
+  ],
+  "airbnb.com": [
+   "旅游与出行",
+   "住宿预订"
+  ],
+  "airwallex.com": [
+   "金融与理财",
+   "跨境收款"
+  ],
+  "aishenqi.net": [
+   "AI 人工智能",
+   "AI导航"
+  ],
+  "aishort.top": [
+   "AI 人工智能",
+   "对话与助手"
+  ],
+  "aisora2.co": [
+   "AI 人工智能",
+   "视频生成"
+  ],
+  "aiyijian.com": [
+   "设计与创意",
+   "素材资源"
+  ],
+  "aizhinan.github.io": [
+   "壁纸与美化",
+   "桌面美化"
+  ],
+  "alibaba.com": [
+   "购物与电商",
+   "B2B电商"
+  ],
+  "aliexpress.com": [
+   "购物与电商",
+   "海外电商"
+  ],
+  "alimama.com": [
+   "购物与电商",
+   "联盟推广"
+  ],
+  "alipan.com": [
+   "网盘与存储",
+   "阿里云盘"
+  ],
+  "alipay.com": [
+   "金融与理财",
+   "支付工具"
+  ],
+  "alist.xiyunmua.top": [
+   "游戏与电竞",
+   "整合包与地图"
+  ],
+  "aliyun.com": [
+   "开发与编程",
+   "云服务"
+  ],
+  "aliyundrive.com": [
+   "网盘与存储",
+   "阿里云盘"
+  ],
+  "amap.com": [
+   "旅游与出行",
+   "地图导航"
+  ],
+  "amazon.cn": [
+   "购物与电商",
+   "海外电商"
+  ],
+  "amazon.com": [
+   "购物与电商",
+   "海外电商"
+  ],
+  "amd.com": [
+   "游戏与电竞",
+   "硬件与外设"
+  ],
+  "annas-archive.org": [
+   "阅读与知识",
+   "电子书库"
+  ],
+  "anthropic.com": [
+   "AI 人工智能",
+   "对话与助手"
+  ],
+  "anydesk.com": [
+   "工具与效率",
+   "远程控制"
+  ],
+  "anyviewer.cn": [
+   "工具与效率",
+   "远程控制"
+  ],
+  "api-football.com": [
+   "新闻资讯",
+   "体育"
+  ],
+  "api.apicore.ai": [
+   "AI 人工智能",
+   "API与平台"
+  ],
+  "api.toubiec.cn": [
+   "音乐与音频",
+   "音乐工具"
+  ],
+  "apicore.ai": [
+   "AI 人工智能",
+   "API与平台"
+  ],
+  "apipro.maynor1024.live": [
+   "AI 人工智能",
+   "API与平台"
+  ],
+  "apiranking.com": [
+   "AI 人工智能",
+   "API与平台"
+  ],
+  "aplaybox.com": [
+   "设计与创意",
+   "素材资源"
+  ],
+  "app.lemonsqueezy.com": [
+   "金融与理财",
+   "支付收款"
+  ],
+  "app.leonardo.ai": [
+   "AI 人工智能",
+   "图像生成"
+  ],
+  "app.lizardbyte.dev": [
+   "工具与效率",
+   "远程控制"
+  ],
+  "app.pinecone.io": [
+   "AI 人工智能",
+   "API与平台"
+  ],
+  "app.yourmusic.fun": [
+   "AI 人工智能",
+   "语音与音乐"
+  ],
+  "appark.ai": [
+   "工具与效率",
+   "系统工具"
+  ],
+  "aring.cc": [
+   "工具与效率",
+   "效率小工具"
+  ],
+  "ark.volcengine.com": [
+   "AI 人工智能",
+   "API与平台"
+  ],
+  "astrbot.app": [
+   "AI 人工智能",
+   "对话与助手"
+  ],
+  "author.baidu.com": [
+   "阅读与知识",
+   "百家号"
+  ],
+  "autohome.com.cn": [
+   "旅游与出行",
+   "汽车资讯"
+  ],
+  "awesome.gptimage2.asia": [
+   "AI 人工智能",
+   "图像生成与编辑"
+  ],
+  "aws.amazon.com": [
+   "开发与编程",
+   "云服务"
+  ],
+  "ayouok.cn": [
+   "工具与效率",
+   "下载与解析"
+  ],
+  "azure.microsoft.com": [
+   "开发与编程",
+   "云服务"
+  ],
+  "baidu.com": [
+   "搜索与门户",
+   "搜索引擎"
+  ],
+  "baijiahao.baidu.com": [
+   "阅读与知识",
+   "百家号"
+  ],
+  "baike.baidu.com": [
+   "阅读与知识",
+   "百科知识"
+  ],
+  "baixing.com": [
+   "美食与生活",
+   "生活服务"
+  ],
+  "bandcamp.com": [
+   "音乐与音频",
+   "海外音乐"
+  ],
+  "battle.net": [
+   "游戏与电竞",
+   "游戏平台"
+  ],
+  "bbs.mcmod.cn": [
+   "游戏与电竞",
+   "MOD模组与百科"
+  ],
+  "bbs.pcbeta.com": [
+   "设计与创意",
+   "视频剪辑"
+  ],
+  "bbsmc.net": [
+   "游戏与电竞",
+   "MOD模组与百科"
+  ],
+  "behance.net": [
+   "设计与创意",
+   "灵感采集"
+  ],
+  "bgithub.xyz": [
+   "开发与编程",
+   "代码托管"
+  ],
+  "bidiys.cc": [
+   "视频与直播",
+   "在线影视"
+  ],
+  "bigjpg.com": [
+   "AI 人工智能",
+   "图像生成与编辑"
+  ],
+  "bilibili.com": [
+   "视频与直播",
+   "在线视频"
+  ],
+  "bilinote.net": [
+   "AI 人工智能",
+   "AI教程与导航"
+  ],
+  "binance.com": [
+   "金融与理财",
+   "加密货币"
+  ],
+  "bing.com": [
+   "搜索与门户",
+   "搜索引擎"
+  ],
+  "bitauto.com": [
+   "旅游与出行",
+   "汽车资讯"
+  ],
+  "bitbucket.org": [
+   "开发与编程",
+   "代码托管"
+  ],
+  "bitdock.cn": [
+   "壁纸与美化",
+   "桌面美化"
+  ],
+  "bizhihui.com": [
+   "壁纸与美化",
+   "壁纸网站"
+  ],
+  "bk.fookxue.cn": [
+   "阅读与知识",
+   "博客专栏"
+  ],
+  "bk.kxwjj.cn": [
+   "工具与效率",
+   "系统工具"
+  ],
+  "blender.org": [
+   "设计与创意",
+   "设计软件"
+  ],
+  "blessing.netlify.app": [
+   "游戏与电竞",
+   "皮肤与角色"
+  ],
+  "blip.net": [
+   "网盘与存储",
+   "网盘与文件共享"
+  ],
+  "blog.csdn.net": [
+   "开发与编程",
+   "技术社区"
+  ],
+  "blog.hgtrojan.com": [
+   "阅读与知识",
+   "网络文学"
+  ],
+  "blog.misaka.rest": [
+   "开发与编程",
+   "技术博客"
+  ],
+  "bloomberg.com": [
+   "金融与理财",
+   "财经资讯"
+  ],
+  "boc.cn": [
+   "金融与理财",
+   "银行"
+  ],
+  "boc.com": [
+   "金融与理财",
+   "银行"
+  ],
+  "booking.com": [
+   "旅游与出行",
+   "住宿预订"
+  ],
+  "bqg107.xyz": [
+   "阅读与知识",
+   "网络文学"
+  ],
+  "breeze.microblock.cc": [
+   "壁纸与美化",
+   "桌面美化"
+  ],
+  "btjawa.top": [
+   "网盘与存储",
+   "网盘与文件共享"
+  ],
+  "bucketlisttravels.com": [
+   "旅游与出行",
+   "旅游攻略"
+  ],
+  "byrutgame.org": [
+   "游戏与电竞",
+   "游戏下载资源"
+  ],
+  "bz.zzzmh.cn": [
+   "壁纸与美化",
+   "壁纸网站"
+  ],
+  "camera-watermark.blogwxb.cn": [
+   "设计与创意",
+   "素材资源"
+  ],
+  "canva.cn": [
+   "设计与创意",
+   "在线设计"
+  ],
+  "canva.com": [
+   "设计与创意",
+   "在线设计"
+  ],
+  "ccb.com": [
+   "金融与理财",
+   "银行"
+  ],
+  "cctv.com": [
+   "新闻资讯",
+   "综合新闻"
+  ],
+  "cdp.baidu.com": [
+   "工具与效率",
+   "数据指数"
+  ],
+  "cdp.edu.cn": [
+   "教育与学习",
+   "学习教育"
+  ],
+  "cgmszj.com": [
+   "设计与创意",
+   "3D模型"
+  ],
+  "cgtrader.com": [
+   "设计与创意",
+   "3D模型"
+  ],
+  "chanmama.com": [
+   "工具与效率",
+   "新媒体工具"
+  ],
+  "chaonengso.com": [
+   "网盘与存储",
+   "网盘搜索"
+  ],
+  "charactercalculator.com": [
+   "工具与效率",
+   "效率小工具"
+  ],
+  "chat.deepseek.com": [
+   "AI 人工智能",
+   "对话与助手"
+  ],
+  "chat.openai.com": [
+   "AI 人工智能",
+   "对话与助手"
+  ],
+  "chatlab.fun": [
+   "AI 人工智能",
+   "对话与助手"
+  ],
+  "china.com.cn": [
+   "新闻资讯",
+   "综合新闻"
+  ],
+  "chinatax.gov.cn": [
+   "政府与公共",
+   "税务服务"
+  ],
+  "chp.shadiao.pro": [
+   "工具与效率",
+   "效率小工具"
+  ],
+  "chromewebstore.google.com": [
+   "工具与效率",
+   "浏览器扩展"
+  ],
+  "chromewu.com": [
+   "工具与效率",
+   "浏览器扩展"
+  ],
+  "chsi.com.cn": [
+   "教育与学习",
+   "学籍学历"
+  ],
+  "chub.ai": [
+   "AI 人工智能",
+   "对话与助手"
+  ],
+  "civitai.com": [
+   "AI 人工智能",
+   "图像生成"
+  ],
+  "clash-s.github.io": [
+   "工具与效率",
+   "网络工具"
+  ],
+  "clashcn.com": [
+   "工具与效率",
+   "网络工具"
+  ],
+  "claude.ai": [
+   "AI 人工智能",
+   "对话与助手"
+  ],
+  "clawhub.ai": [
+   "AI 人工智能",
+   "技能与生态"
+  ],
+  "clgod.xyz": [
+   "视频与直播",
+   "在线影视"
+  ],
+  "clockcn.com": [
+   "工具与效率",
+   "效率小工具"
+  ],
+  "cloud.189.cn": [
+   "网盘与存储",
+   "天翼云盘"
+  ],
+  "cloud.complexstudio.net": [
+   "网盘与存储",
+   "网盘与文件共享"
+  ],
+  "cloud.google.com": [
+   "开发与编程",
+   "云服务"
+  ],
+  "cloud.siliconflow.cn": [
+   "AI 人工智能",
+   "API与平台"
+  ],
+  "cloud.tencent.com": [
+   "开发与编程",
+   "云服务"
+  ],
+  "cloudflare.com": [
+   "开发与编程",
+   "云服务"
+  ],
+  "cls.cn": [
+   "金融与理财",
+   "财经资讯"
+  ],
+  "cmbchina.com": [
+   "金融与理财",
+   "银行"
+  ],
+  "cn.bing.com": [
+   "搜索与门户",
+   "搜索引擎"
+  ],
+  "cn.tripadvisor.com": [
+   "旅游与出行",
+   "旅游攻略"
+  ],
+  "cnbc.com": [
+   "金融与理财",
+   "财经资讯"
+  ],
+  "cnbeta.com": [
+   "新闻资讯",
+   "科技资讯"
+  ],
+  "cnblogs.com": [
+   "开发与编程",
+   "技术社区"
+  ],
+  "cnki.net": [
+   "阅读与知识",
+   "学术文献"
+  ],
+  "cnlongdexin.com": [
+   "游戏与电竞",
+   "游戏社区与资讯"
+  ],
+  "cnr.cn": [
+   "新闻资讯",
+   "综合新闻"
+  ],
+  "coinbase.com": [
+   "金融与理财",
+   "加密货币"
+  ],
+  "color.adobe.com": [
+   "设计与创意",
+   "配色工具"
+  ],
+  "connect-screen.com": [
+   "工具与效率",
+   "远程控制"
+  ],
+  "console.volcengine.com": [
+   "AI 人工智能",
+   "API与平台"
+  ],
+  "continuum.graphics": [
+   "游戏与电竞",
+   "光影与材质"
+  ],
+  "convertio.co": [
+   "工具与效率",
+   "在线转换"
+  ],
+  "coolors.co": [
+   "设计与创意",
+   "配色工具"
+  ],
+  "copilot.microsoft.com": [
+   "AI 人工智能",
+   "对话与助手"
+  ],
+  "corona.studio": [
+   "游戏与电竞",
+   "启动器与工具"
+  ],
+  "course.cdp.edu.cn": [
+   "教育与学习",
+   "学习教育"
+  ],
+  "course.webvpn.cdp.edu.cn": [
+   "教育与学习",
+   "学习教育"
+  ],
+  "coursera.org": [
+   "教育与学习",
+   "在线教育"
+  ],
+  "cowtransfer.com": [
+   "网盘与存储",
+   "文件传输"
+  ],
+  "coze.cn": [
+   "AI 人工智能",
+   "对话与助手"
+  ],
+  "cp.green.cloud": [
+   "开发与编程",
+   "云服务"
+  ],
+  "cpuranklist.com": [
+   "游戏与电竞",
+   "硬件与外设"
+  ],
+  "cqvip.com": [
+   "阅读与知识",
+   "学术文献"
+  ],
+  "crashmc.com": [
+   "游戏与电竞",
+   "启动器与工具"
+  ],
+  "creepypasta.com": [
+   "阅读与知识",
+   "网络文学"
+  ],
+  "crxsoso.com": [
+   "工具与效率",
+   "浏览器扩展"
+  ],
+  "csdn.net": [
+   "开发与编程",
+   "技术社区"
+  ],
+  "cstimer.net": [
+   "工具与效率",
+   "效率小工具"
+  ],
+  "ctrip.com": [
+   "旅游与出行",
+   "在线旅游"
+  ],
+  "cupfoxyy.com": [
+   "视频与直播",
+   "在线影视"
+  ],
+  "curseforge.com": [
+   "游戏与电竞",
+   "Minecraft"
+  ],
+  "cursor-ide.com": [
+   "AI 人工智能",
+   "API与平台"
+  ],
+  "cxapk.com": [
+   "游戏与电竞",
+   "MOD模组与百科"
+  ],
+  "cyberbara.com": [
+   "AI 人工智能",
+   "图像生成与编辑"
+  ],
+  "d.youxiaohou.com": [
+   "工具与效率",
+   "下载与解析"
+  ],
+  "dailymotion.com": [
+   "视频与直播",
+   "海外视频"
+  ],
+  "dangdang.com": [
+   "购物与电商",
+   "图书电商"
+  ],
+  "danjuanfunds.com": [
+   "金融与理财",
+   "股票基金"
+  ],
+  "dashboard.api-football.com": [
+   "新闻资讯",
+   "体育"
+  ],
+  "dashboard.stripe.com": [
+   "金融与理财",
+   "支付收款"
+  ],
+  "davidwuw0811-boop.github.io": [
+   "AI 人工智能",
+   "图像生成与编辑"
+  ],
+  "dcloud.net.cn": [
+   "开发与编程",
+   "uni-app"
+  ],
+  "ddys.pro": [
+   "视频与直播",
+   "在线影视"
+  ],
+  "deepl.com": [
+   "工具与效率",
+   "翻译工具"
+  ],
+  "deepseek.com": [
+   "AI 人工智能",
+   "对话与助手"
+  ],
+  "dev.dcloud.net.cn": [
+   "开发与编程",
+   "uni-app"
+  ],
+  "developer.mozilla.org": [
+   "开发与编程",
+   "教程文档"
+  ],
+  "developers.weixin.qq.com": [
+   "开发与编程",
+   "微信开发"
+  ],
+  "dewu.com": [
+   "购物与电商",
+   "潮流电商"
+  ],
+  "dianping.com": [
+   "美食与生活",
+   "本地生活"
+  ],
+  "didi.com": [
+   "旅游与出行",
+   "出行服务"
+  ],
+  "diffchecker.com": [
+   "工具与效率",
+   "效率小工具"
+  ],
+  "dingtalk.com": [
+   "办公与协作",
+   "协作平台"
+  ],
+  "dismplus.com": [
+   "工具与效率",
+   "系统工具"
+  ],
+  "dm.xifanacg.com": [
+   "视频与直播",
+   "在线影视"
+  ],
+  "doc88.com": [
+   "教育与学习",
+   "学习教育"
+  ],
+  "docker.com": [
+   "开发与编程",
+   "开发工具"
+  ],
+  "docs.bilinote.app": [
+   "AI 人工智能",
+   "AI教程与导航"
+  ],
+  "docs.chatlab.fun": [
+   "AI 人工智能",
+   "对话与助手"
+  ],
+  "docs.fancymenu.net": [
+   "游戏与电竞",
+   "启动器与工具"
+  ],
+  "docs.laozhang.ai": [
+   "AI 人工智能",
+   "API与平台"
+  ],
+  "docs.qingque.cn": [
+   "游戏与电竞",
+   "MOD模组与百科"
+  ],
+  "docs.qq.com": [
+   "办公与协作",
+   "在线文档"
+  ],
+  "docs.wps.cn": [
+   "办公与协作",
+   "在线文档"
+  ],
+  "dongchedi.com": [
+   "旅游与出行",
+   "汽车资讯"
+  ],
+  "dongqiudi.com": [
+   "新闻资讯",
+   "体育"
+  ],
+  "douban.com": [
+   "社交与社区",
+   "兴趣社区"
+  ],
+  "doubao.com": [
+   "AI 人工智能",
+   "对话与助手"
+  ],
+  "douyin.com": [
+   "视频与直播",
+   "短视频直播"
+  ],
+  "douyu.com": [
+   "视频与直播",
+   "短视频直播"
+  ],
+  "download.cnet.com": [
+   "游戏与电竞",
+   "游戏下载资源"
+  ],
+  "dp.nxina.cfd": [
+   "工具与效率",
+   "下载与解析"
+  ],
+  "dribbble.com": [
+   "设计与创意",
+   "灵感采集"
+  ],
+  "duckduckgo.com": [
+   "搜索与门户",
+   "搜索引擎"
+  ],
+  "duolingo.com": [
+   "教育与学习",
+   "外语学习"
+  ],
+  "dxy.cn": [
+   "医疗与健康",
+   "健康科普"
+  ],
+  "dxy.com": [
+   "医疗与健康",
+   "健康科普"
+  ],
+  "dygang.net": [
+   "视频与直播",
+   "在线影视"
+  ],
+  "ears.y2k.diy": [
+   "游戏与电竞",
+   "皮肤与角色"
+  ],
+  "eastmoney.com": [
+   "金融与理财",
+   "财经资讯"
+  ],
+  "ebay.com": [
+   "购物与电商",
+   "海外电商"
+  ],
+  "edx.org": [
+   "教育与学习",
+   "在线教育"
+  ],
+  "ele.me": [
+   "美食与生活",
+   "外卖"
+  ],
+  "elevenlabs.io": [
+   "AI 人工智能",
+   "语音与音乐"
+  ],
+  "emotes.kosmx.dev": [
+   "游戏与电竞",
+   "MOD模组与百科"
+  ],
+  "enginecat.cn": [
+   "游戏与电竞",
+   "启动器与工具"
+  ],
+  "epicgames.com": [
+   "游戏与电竞",
+   "游戏平台"
+  ],
+  "escrcpy.viarotel.eu.org": [
+   "工具与效率",
+   "远程控制"
+  ],
+  "espn.com": [
+   "新闻资讯",
+   "体育"
+  ],
+  "eteste.com": [
+   "工具与效率",
+   "效率小工具"
+  ],
+  "ethereum.org": [
+   "金融与理财",
+   "加密货币"
+  ],
+  "examcoo.com": [
+   "教育与学习",
+   "考试平台"
+  ],
+  "ext.dcloud.net.cn": [
+   "开发与编程",
+   "uni-app"
+  ],
+  "facebook.com": [
+   "社交与社区",
+   "海外社交"
+  ],
+  "fanyi.baidu.com": [
+   "工具与效率",
+   "翻译工具"
+  ],
+  "feishu.cn": [
+   "办公与协作",
+   "协作平台"
+  ],
+  "fengba.net": [
+   "视频与直播",
+   "影视与音乐下载"
+  ],
+  "fffuel.co": [
+   "设计与创意",
+   "配色工具"
+  ],
+  "ffkk.top": [
+   "游戏与电竞",
+   "游戏下载资源"
+  ],
+  "fh21.com.cn": [
+   "医疗与健康",
+   "健康科普"
+  ],
+  "figma.com": [
+   "设计与创意",
+   "在线设计"
+  ],
+  "fish.audio": [
+   "AI 人工智能",
+   "语音与音乐"
+  ],
+  "flexclip.com": [
+   "设计与创意",
+   "视频剪辑"
+  ],
+  "fliggy.com": [
+   "旅游与出行",
+   "在线旅游"
+  ],
+  "flowgpt.com": [
+   "AI 人工智能",
+   "对话与助手"
+  ],
+  "flowus.cn": [
+   "工具与效率",
+   "网络工具"
+  ],
+  "flydigi.com": [
+   "游戏与电竞",
+   "硬件与外设"
+  ],
+  "flysheep.ysepan.com": [
+   "游戏与电竞",
+   "游戏下载资源"
+  ],
+  "flysheep6.com": [
+   "工具与效率",
+   "资源导航"
+  ],
+  "fotor.com": [
+   "设计与创意",
+   "在线设计"
+  ],
+  "free3d.com": [
+   "设计与创意",
+   "3D模型"
+  ],
+  "freeconvert.com": [
+   "工具与效率",
+   "在线转换"
+  ],
+  "frpee.com": [
+   "工具与效率",
+   "网络工具"
+  ],
+  "ft.com": [
+   "金融与理财",
+   "财经资讯"
+  ],
+  "fuddj.com": [
+   "视频与直播",
+   "在线影视"
+  ],
+  "fuun.fun": [
+   "工具与效率",
+   "效率工具"
+  ],
+  "g.blfrp.cn": [
+   "开发与编程",
+   "GitHub 项目"
+  ],
+  "gaituya.com": [
+   "设计与创意",
+   "图片处理"
+  ],
+  "game777.cn": [
+   "游戏与电竞",
+   "游戏下载"
+  ],
+  "game777.top": [
+   "游戏与电竞",
+   "游戏下载资源"
+  ],
+  "gamer520.com": [
+   "游戏与电竞",
+   "游戏下载"
+  ],
+  "gamersky.com": [
+   "游戏与电竞",
+   "游戏资讯"
+  ],
+  "gaming.lenovo.com": [
+   "游戏与电竞",
+   "游戏下载资源"
+  ],
+  "ganji.com": [
+   "美食与生活",
+   "生活服务"
+  ],
+  "gaode.com": [
+   "旅游与出行",
+   "地图导航"
+  ],
+  "gaokao.com": [
+   "教育与学习",
+   "升学考试"
+  ],
+  "geekbang.org": [
+   "教育与学习",
+   "IT培训"
+  ],
+  "gemini.google.com": [
+   "AI 人工智能",
+   "对话与助手"
+  ],
+  "getgpt.pro": [
+   "AI 人工智能",
+   "API与平台"
+  ],
+  "gh-proxy.com": [
+   "开发与编程",
+   "代码托管"
+  ],
+  "ghxi.com": [
+   "工具与效率",
+   "软件下载"
+  ],
+  "gitcn.org": [
+   "开发与编程",
+   "代码托管与社区"
+  ],
+  "gitcode.com": [
+   "开发与编程",
+   "代码托管"
+  ],
+  "gitee.com": [
+   "开发与编程",
+   "代码托管"
+  ],
+  "github.com": [
+   "开发与编程",
+   "代码托管"
+  ],
+  "githubrsp.com": [
+   "开发与编程",
+   "代码托管与社区"
+  ],
+  "gitlab.com": [
+   "开发与编程",
+   "代码托管"
+  ],
+  "gitmind.cn": [
+   "AI 人工智能",
+   "内容创作"
+  ],
+  "gmail.com": [
+   "办公与协作",
+   "邮箱"
+  ],
+  "gndown.lanzoue.com": [
+   "工具与效率",
+   "下载与解析"
+  ],
+  "go-to-library.sk": [
+   "阅读与知识",
+   "电子书库"
+  ],
+  "go.itab.link": [
+   "壁纸与美化",
+   "桌面美化"
+  ],
+  "gobing.cn": [
+   "游戏与电竞",
+   "游戏MOD与工具"
+  ],
+  "gog.com": [
+   "游戏与电竞",
+   "游戏平台"
+  ],
+  "gogoyouxi.com": [
+   "游戏与电竞",
+   "游戏下载资源"
+  ],
+  "gome.com.cn": [
+   "购物与电商",
+   "综合电商"
+  ],
+  "goofish.com": [
+   "购物与电商",
+   "二手交易"
+  ],
+  "goofuture.com": [
+   "AI 人工智能",
+   "API与平台"
+  ],
+  "google.com": [
+   "搜索与门户",
+   "搜索引擎"
+  ],
+  "google.com.hk": [
+   "搜索与门户",
+   "搜索引擎"
+  ],
+  "gov.cn": [
+   "政府与公共",
+   "政务服务"
+  ],
+  "gpu-monkey.com": [
+   "游戏与电竞",
+   "硬件与外设"
+  ],
+  "green.cloud": [
+   "开发与编程",
+   "云服务"
+  ],
+  "greencloudvps.com": [
+   "开发与编程",
+   "云服务"
+  ],
+  "greenvideo.cc": [
+   "工具与效率",
+   "下载与解析"
+  ],
+  "guahao.com": [
+   "医疗与健康",
+   "在线医疗"
+  ],
+  "gumroad.com": [
+   "购物与电商",
+   "独立站"
+  ],
+  "gushiwen.cn": [
+   "教育与学习",
+   "学习教育"
+  ],
+  "gy328.com": [
+   "工具与效率",
+   "远程控制"
+  ],
+  "habo.qq.com": [
+   "工具与效率",
+   "安全检测"
+  ],
+  "haibaosj.com": [
+   "设计与创意",
+   "图片设计"
+  ],
+  "haiyingsec.cn": [
+   "工具与效率",
+   "安全检测"
+  ],
+  "hanyuai.com": [
+   "AI 人工智能",
+   "图像生成"
+  ],
+  "hao123.com": [
+   "搜索与门户",
+   "网址导航"
+  ],
+  "hao6v.me": [
+   "视频与直播",
+   "在线影视"
+  ],
+  "haodf.com": [
+   "医疗与健康",
+   "在线医疗"
+  ],
+  "haomc.com": [
+   "游戏与电竞",
+   "启动器与工具"
+  ],
+  "haowallpaper.com": [
+   "壁纸与美化",
+   "壁纸网站"
+  ],
+  "headshotmaster.io": [
+   "AI 人工智能",
+   "图像生成"
+  ],
+  "hermes-agent.nousresearch.com": [
+   "AI 人工智能",
+   "对话与助手"
+  ],
+  "hermespet.cc": [
+   "AI 人工智能",
+   "对话与助手"
+  ],
+  "home.greasyfork.org.cn": [
+   "工具与效率",
+   "网络工具"
+  ],
+  "hostloc.com": [
+   "社交与社区",
+   "技术社区"
+  ],
+  "hqshi.cn": [
+   "游戏与电竞",
+   "启动器与工具"
+  ],
+  "huaban.com": [
+   "设计与创意",
+   "灵感采集"
+  ],
+  "huaweicloud.com": [
+   "开发与编程",
+   "云服务"
+  ],
+  "hub.minimaxi.com": [
+   "AI 人工智能",
+   "API与平台"
+  ],
+  "huggingface.co": [
+   "AI 人工智能",
+   "模型社区"
+  ],
+  "hujiang.com": [
+   "教育与学习",
+   "在线教育"
+  ],
+  "huobi.com": [
+   "金融与理财",
+   "加密货币"
+  ],
+  "hupu.com": [
+   "新闻资讯",
+   "体育"
+  ],
+  "huxiu.com": [
+   "新闻资讯",
+   "科技资讯"
+  ],
+  "huya.com": [
+   "视频与直播",
+   "短视频直播"
+  ],
+  "hy.ithinkai.cn": [
+   "AI 人工智能",
+   "内容创作"
+  ],
+  "icbc.com.cn": [
+   "金融与理财",
+   "银行"
+  ],
+  "iciba.com": [
+   "工具与效率",
+   "词典工具"
+  ],
+  "icourse163.org": [
+   "教育与学习",
+   "在线教育"
+  ],
+  "ifeng.com": [
+   "搜索与门户",
+   "综合门户"
+  ],
+  "ign.com": [
+   "游戏与电竞",
+   "游戏资讯"
+  ],
+  "igoutu.cn": [
+   "游戏与电竞",
+   "启动器与工具"
+  ],
+  "ilovepdf.com": [
+   "工具与效率",
+   "在线转换"
+  ],
+  "imgdiet.com": [
+   "工具与效率",
+   "图片压缩"
+  ],
+  "imi123.cn": [
+   "阅读与知识",
+   "电子书与文档库"
+  ],
+  "index.baidu.com": [
+   "工具与效率",
+   "数据指数"
+  ],
+  "instagram.com": [
+   "社交与社区",
+   "海外社交"
+  ],
+  "iocoder.cn": [
+   "开发与编程",
+   "教程文档"
+  ],
+  "iphoneswallpapers.com": [
+   "壁纸与美化",
+   "壁纸网站"
+  ],
+  "iqiyi.com": [
+   "视频与直播",
+   "在线视频"
+  ],
+  "ithome.com": [
+   "新闻资讯",
+   "科技资讯"
+  ],
+  "itlooker.cn": [
+   "工具与效率",
+   "远程控制"
+  ],
+  "izbds.com": [
+   "开发与编程",
+   "IPTV与TVBOX"
+  ],
+  "jb51.net": [
+   "开发与编程",
+   "脚本之家"
+  ],
+  "jd.com": [
+   "购物与电商",
+   "综合电商"
+  ],
+  "jetbrains.com": [
+   "开发与编程",
+   "开发工具"
+  ],
+  "jianke.com": [
+   "医疗与健康",
+   "在线医疗"
+  ],
+  "jianliai.com": [
+   "办公与协作",
+   "招聘求职"
+  ],
+  "jianshu.com": [
+   "办公与协作",
+   "文档与办公"
+  ],
+  "jiaobu365.com": [
+   "办公与协作",
+   "效率工具"
+  ],
+  "jimeng.jianying.com": [
+   "AI 人工智能",
+   "图像生成"
+  ],
+  "jin10.com": [
+   "金融与理财",
+   "财经资讯"
+  ],
+  "jinbao.pinduoduo.com": [
+   "购物与电商",
+   "联盟推广"
+  ],
+  "jingxinpharm.com": [
+   "办公与协作",
+   "企业系统"
+  ],
+  "jiumodiary.com": [
+   "阅读与知识",
+   "文档搜索"
+  ],
+  "jpgrm.com": [
+   "AI 人工智能",
+   "图像生成与编辑"
+  ],
+  "jrmf.org": [
+   "工具与效率",
+   "效率小工具"
+  ],
+  "js.ac2w.com": [
+   "音乐与音频",
+   "音乐工具"
+  ],
+  "juejin.cn": [
+   "开发与编程",
+   "技术社区"
+  ],
+  "jyshare.com": [
+   "工具与效率",
+   "编码工具"
+  ],
+  "kaola.com": [
+   "购物与电商",
+   "综合电商"
+  ],
+  "kdocs.cn": [
+   "办公与协作",
+   "在线文档"
+  ],
+  "khanacademy.org": [
+   "教育与学习",
+   "在线教育"
+  ],
+  "kimi.com": [
+   "AI 人工智能",
+   "对话与助手"
+  ],
+  "kioxia.com.cn": [
+   "工具与效率",
+   "系统工具"
+  ],
+  "kkdaxue.com": [
+   "教育与学习",
+   "教育导航"
+  ],
+  "kkgithub.com": [
+   "开发与编程",
+   "代码托管"
+  ],
+  "kkpans.com": [
+   "网盘与存储",
+   "网盘搜索"
+  ],
+  "klpbbs.com": [
+   "游戏与电竞",
+   "MOD模组与百科"
+  ],
+  "koubei.com": [
+   "美食与生活",
+   "本地生活"
+  ],
+  "koyso.com": [
+   "工具与效率",
+   "效率工具"
+  ],
+  "kt.94xy.com": [
+   "AI 人工智能",
+   "图像生成与编辑"
+  ],
+  "kuafuzy.cc": [
+   "网盘与存储",
+   "资源分享"
+  ],
+  "kuafuzy.com": [
+   "网盘与存储",
+   "资源分享"
+  ],
+  "kuaishou.com": [
+   "视频与直播",
+   "短视频直播"
+  ],
+  "kuaiyupro.com": [
+   "购物与电商",
+   "二手交易"
+  ],
+  "kugou.com": [
+   "音乐与音频",
+   "在线音乐"
+  ],
+  "kumao6.com": [
+   "设计与创意",
+   "视频剪辑"
+  ],
+  "kuwo.cn": [
+   "音乐与音频",
+   "在线音乐"
+  ],
+  "lanzn.com": [
+   "网盘与存储",
+   "蓝奏云"
+  ],
+  "lanzoue.com": [
+   "网盘与存储",
+   "蓝奏云"
+  ],
+  "lanzouj.com": [
+   "网盘与存储",
+   "蓝奏云"
+  ],
+  "lanzoux.com": [
+   "网盘与存储",
+   "蓝奏云"
+  ],
+  "larksuite.com": [
+   "办公与协作",
+   "协作平台"
+  ],
+  "leetcode.cn": [
+   "开发与编程",
+   "刷题面试"
+  ],
+  "leiphone.com": [
+   "新闻资讯",
+   "科技资讯"
+  ],
+  "lemonsqueezy.com": [
+   "金融与理财",
+   "支付收款"
+  ],
+  "leonardo.ai": [
+   "AI 人工智能",
+   "图像生成"
+  ],
+  "link3.cc": [
+   "游戏与电竞",
+   "MOD模组与百科"
+  ],
+  "linshi-email.com": [
+   "工具与效率",
+   "临时邮箱"
+  ],
+  "linux.do": [
+   "社交与社区",
+   "技术社区"
+  ],
+  "live.zbds.org": [
+   "开发与编程",
+   "IPTV与TVBOX"
+  ],
+  "lizhi.fm": [
+   "音乐与音频",
+   "有声电台"
+  ],
+  "lizibuluo.com": [
+   "设计与创意",
+   "图片设计"
+  ],
+  "login.payoneer.com": [
+   "金融与理财",
+   "跨境收款"
+  ],
+  "lonelyplanet.com": [
+   "旅游与出行",
+   "旅游攻略"
+  ],
+  "luvvoice.com": [
+   "AI 人工智能",
+   "语音与音乐"
+  ],
+  "lw.aiduihua.com": [
+   "AI 人工智能",
+   "AI教程与导航"
+  ],
+  "ly.com": [
+   "旅游与出行",
+   "在线旅游"
+  ],
+  "mafengwo.cn": [
+   "旅游与出行",
+   "旅游攻略"
+  ],
+  "mail.163.com": [
+   "办公与协作",
+   "邮箱"
+  ],
+  "mail.qq.com": [
+   "办公与协作",
+   "邮箱"
+  ],
+  "mango.tv": [
+   "视频与直播",
+   "在线视频"
+  ],
+  "map.baidu.com": [
+   "旅游与出行",
+   "地图导航"
+  ],
+  "map.qq.com": [
+   "旅游与出行",
+   "地图导航"
+  ],
+  "mark.immers.icu": [
+   "设计与创意",
+   "素材资源"
+  ],
+  "mc.flna.top": [
+   "游戏与电竞",
+   "MOD模组与百科"
+  ],
+  "mcapks.net": [
+   "游戏与电竞",
+   "整合包与地图"
+  ],
+  "mcmod.cn": [
+   "游戏与电竞",
+   "Minecraft"
+  ],
+  "mcneo.cn": [
+   "游戏与电竞",
+   "光影与材质"
+  ],
+  "mcpedl.com": [
+   "游戏与电竞",
+   "MOD模组与百科"
+  ],
+  "mcskin.com.cn": [
+   "游戏与电竞",
+   "皮肤与角色"
+  ],
+  "mediafire.com": [
+   "网盘与存储",
+   "文件传输"
+  ],
+  "medium.com": [
+   "阅读与知识",
+   "海外阅读"
+  ],
+  "medlive.cn": [
+   "医疗与健康",
+   "在线医疗"
+  ],
+  "meeting.tencent.com": [
+   "办公与协作",
+   "视频会议"
+  ],
+  "mefcl.com": [
+   "工具与效率",
+   "系统工具"
+  ],
+  "mega.nz": [
+   "网盘与存储",
+   "海外网盘"
+  ],
+  "meishij.net": [
+   "美食与生活",
+   "菜谱美食"
+  ],
+  "meituan.com": [
+   "美食与生活",
+   "本地生活"
+  ],
+  "midjourney.com": [
+   "AI 人工智能",
+   "图像生成"
+  ],
+  "miit.gov.cn": [
+   "政府与公共",
+   "政务服务"
+  ],
+  "minebbs.com": [
+   "游戏与电竞",
+   "Minecraft"
+  ],
+  "minecraft.net": [
+   "游戏与电竞",
+   "Minecraft"
+  ],
+  "minecrafthub.com": [
+   "游戏与电竞",
+   "MOD模组与百科"
+  ],
+  "minecraftmaps.com": [
+   "游戏与电竞",
+   "整合包与地图"
+  ],
+  "minecraftphysicsmod.com": [
+   "游戏与电竞",
+   "MOD模组与百科"
+  ],
+  "minecraftshader.com": [
+   "游戏与电竞",
+   "光影与材质"
+  ],
+  "minegraph.cn": [
+   "游戏与电竞",
+   "光影与材质"
+  ],
+  "minimaxi.com": [
+   "AI 人工智能",
+   "语音与音乐"
+  ],
+  "minnimax.chat": [
+   "AI 人工智能",
+   "API与平台"
+  ],
+  "mod.3dmgame.com": [
+   "游戏与电竞",
+   "游戏MOD与工具"
+  ],
+  "modelradar.cn": [
+   "AI 人工智能",
+   "API与平台"
+  ],
+  "modelscope.cn": [
+   "AI 人工智能",
+   "模型社区"
+  ],
+  "modfans.cc": [
+   "游戏与电竞",
+   "游戏MOD与工具"
+  ],
+  "modpack.icu": [
+   "游戏与电竞",
+   "整合包与地图"
+  ],
+  "modrinth.com": [
+   "游戏与电竞",
+   "Minecraft"
+  ],
+  "moge.ai": [
+   "AI 人工智能",
+   "AI导航"
+  ],
+  "mogua.co": [
+   "工具与效率",
+   "安全检测"
+  ],
+  "monect.cn": [
+   "游戏与电竞",
+   "模拟器与串流"
+  ],
+  "moonshot.cn": [
+   "AI 人工智能",
+   "对话与助手"
+  ],
+  "motionsites.ai": [
+   "AI 人工智能",
+   "AI教程与导航"
+  ],
+  "mp.weixin.qq.com": [
+   "办公与协作",
+   "微信公众号"
+  ],
+  "mp3.ac2w.com": [
+   "音乐与音频",
+   "音乐工具"
+  ],
+  "music.163.com": [
+   "音乐与音频",
+   "在线音乐"
+  ],
+  "music.gdstudio.xyz": [
+   "音乐与音频",
+   "音乐工具"
+  ],
+  "my.vpnpn.com": [
+   "工具与效率",
+   "网络工具"
+  ],
+  "my.zerotier.com": [
+   "工具与效率",
+   "网络工具"
+  ],
+  "myfreemp3.com.cn": [
+   "音乐与音频",
+   "音乐工具"
+  ],
+  "namemc.com": [
+   "游戏与电竞",
+   "皮肤与角色"
+  ],
+  "natfrp.com": [
+   "工具与效率",
+   "网络工具"
+  ],
+  "neatdownloadmanager.com": [
+   "工具与效率",
+   "下载与解析"
+  ],
+  "neoshader.com": [
+   "游戏与电竞",
+   "光影与材质"
+  ],
+  "netflix.com": [
+   "视频与直播",
+   "海外视频"
+  ],
+  "newrank.cn": [
+   "工具与效率",
+   "新媒体工具"
+  ],
+  "nexusmods.com": [
+   "游戏与电竞",
+   "游戏MOD"
+  ],
+  "nf.video": [
+   "工具与效率",
+   "网络工具"
+  ],
+  "nightmare.press": [
+   "工具与效率",
+   "系统工具"
+  ],
+  "ningnana.top": [
+   "游戏与电竞",
+   "整合包与地图"
+  ],
+  "nintendo.com": [
+   "游戏与电竞",
+   "游戏平台"
+  ],
+  "nipic.com": [
+   "设计与创意",
+   "图库素材"
+  ],
+  "nitwikit.8aka.org": [
+   "游戏与电竞",
+   "启动器与工具"
+  ],
+  "nodejs.org": [
+   "开发与编程",
+   "编程语言"
+  ],
+  "nodeseek.com": [
+   "社交与社区",
+   "技术社区"
+  ],
+  "note.youdao.com": [
+   "游戏与电竞",
+   "整合包与地图"
+  ],
+  "notebooklm.google": [
+   "AI 人工智能",
+   "对话与助手"
+  ],
+  "notegpt.io": [
+   "AI 人工智能",
+   "AI教程与导航"
+  ],
+  "notion.so": [
+   "办公与协作",
+   "在线文档"
+  ],
+  "nowcoder.com": [
+   "开发与编程",
+   "刷题面试"
+  ],
+  "npmjs.com": [
+   "开发与编程",
+   "开发工具"
+  ],
+  "objtoschematic.com": [
+   "游戏与电竞",
+   "启动器与工具"
+  ],
+  "office.com": [
+   "办公与协作",
+   "办公套件"
+  ],
+  "officeplus.cn": [
+   "办公与协作",
+   "PPT与模板"
+  ],
+  "okx.com": [
+   "金融与理财",
+   "加密货币"
+  ],
+  "online.all-recovery-inc.com": [
+   "办公与协作",
+   "文档与办公"
+  ],
+  "onlinefix618.com": [
+   "游戏与电竞",
+   "游戏补丁"
+  ],
+  "open.weixin.qq.com": [
+   "开发与编程",
+   "微信开发"
+  ],
+  "openai.com": [
+   "AI 人工智能",
+   "对话与助手"
+  ],
+  "openrouter.ai": [
+   "AI 人工智能",
+   "API与平台"
+  ],
+  "operit.app": [
+   "AI 人工智能",
+   "对话与助手"
+  ],
+  "osssr.com": [
+   "工具与效率",
+   "下载与解析"
+  ],
+  "otp.landian.vip": [
+   "工具与效率",
+   "系统工具"
+  ],
+  "outlook.com": [
+   "办公与协作",
+   "邮箱"
+  ],
+  "paddle.com": [
+   "金融与理财",
+   "支付收款"
+  ],
+  "pan.baidu.com": [
+   "网盘与存储",
+   "百度网盘"
+  ],
+  "pan.quark.cn": [
+   "网盘与存储",
+   "夸克网盘"
+  ],
+  "pan.xfyzyyb.xyz": [
+   "工具与效率",
+   "下载与解析"
+  ],
+  "pan.xunlei.com": [
+   "网盘与存储",
+   "迅雷云盘"
+  ],
+  "paper.z2h.cn": [
+   "办公与协作",
+   "效率工具"
+  ],
+  "parsec.app": [
+   "工具与效率",
+   "远程控制"
+  ],
+  "pay.hezuba.pro": [
+   "工具与效率",
+   "网络工具"
+  ],
+  "payoneer.com": [
+   "金融与理财",
+   "跨境收款"
+  ],
+  "paypal.com": [
+   "金融与理财",
+   "支付工具"
+  ],
+  "pcauto.com.cn": [
+   "旅游与出行",
+   "汽车资讯"
+  ],
+  "pcl-community.github.io": [
+   "游戏与电竞",
+   "启动器与工具"
+  ],
+  "pd.qq.com": [
+   "游戏与电竞",
+   "MOD模组与百科"
+  ],
+  "pdfcandy.com": [
+   "工具与效率",
+   "在线转换"
+  ],
+  "pdfdrive.com": [
+   "阅读与知识",
+   "电子书库"
+  ],
+  "people.com.cn": [
+   "新闻资讯",
+   "综合新闻"
+  ],
+  "perplexity.ai": [
+   "AI 人工智能",
+   "对话与助手"
+  ],
+  "pexels.com": [
+   "设计与创意",
+   "图库素材"
+  ],
+  "photogrid.app": [
+   "AI 人工智能",
+   "图像生成与编辑"
+  ],
+  "photopea.com": [
+   "设计与创意",
+   "在线设计"
+  ],
+  "pic.netbian.com": [
+   "壁纸与美化",
+   "壁纸网站"
+  ],
+  "pinduoduo.com": [
+   "购物与电商",
+   "综合电商"
+  ],
+  "pinecone.io": [
+   "AI 人工智能",
+   "API与平台"
+  ],
+  "pingwest.com": [
+   "新闻资讯",
+   "科技资讯"
+  ],
+  "pintu8.cc": [
+   "工具与效率",
+   "资源导航"
+  ],
+  "pixabay.com": [
+   "设计与创意",
+   "图库素材"
+  ],
+  "pixelmap.minegraph.cn": [
+   "游戏与电竞",
+   "整合包与地图"
+  ],
+  "pixpinapp.com": [
+   "工具与效率",
+   "截图工具"
+  ],
+  "planetminecraft.com": [
+   "游戏与电竞",
+   "MOD模组与百科"
+  ],
+  "platform.qianwenai.com": [
+   "AI 人工智能",
+   "API与平台"
+  ],
+  "playdanji.com": [
+   "游戏与电竞",
+   "游戏下载资源"
+  ],
+  "playhop.com": [
+   "游戏与电竞",
+   "游戏下载资源"
+  ],
+  "playstation.com": [
+   "游戏与电竞",
+   "游戏平台"
+  ],
+  "ppter8.com": [
+   "办公与协作",
+   "PPT与模板"
+  ],
+  "pptv.com": [
+   "视频与直播",
+   "在线视频"
+  ],
+  "ps.gaoding.com": [
+   "设计与创意",
+   "在线设计"
+  ],
+  "pub.alimama.com": [
+   "购物与电商",
+   "联盟推广"
+  ],
+  "pypi.org": [
+   "开发与编程",
+   "开发工具"
+  ],
+  "python.org": [
+   "开发与编程",
+   "编程语言"
+  ],
+  "qianwenai.com": [
+   "AI 人工智能",
+   "对话与助手"
+  ],
+  "qidian.com": [
+   "阅读与知识",
+   "网络文学"
+  ],
+  "qingting.fm": [
+   "音乐与音频",
+   "有声电台"
+  ],
+  "qiniu.com": [
+   "开发与编程",
+   "云服务"
+  ],
+  "qq.com": [
+   "搜索与门户",
+   "综合门户"
+  ],
+  "quarkpanso.com": [
+   "网盘与存储",
+   "网盘搜索"
+  ],
+  "qunar.com": [
+   "旅游与出行",
+   "在线旅游"
+  ],
+  "qweather.com": [
+   "工具与效率",
+   "天气查询"
+  ],
+  "qzone.qq.com": [
+   "社交与社区",
+   "微博与社交"
+  ],
+  "rainmeter.net": [
+   "壁纸与美化",
+   "桌面美化"
+  ],
+  "reasonix.io": [
+   "AI 人工智能",
+   "技能与生态"
+  ],
+  "recloud.com.cn": [
+   "办公与协作",
+   "企业系统"
+  ],
+  "reddit.com": [
+   "社交与社区",
+   "海外社区"
+  ],
+  "redian.me": [
+   "办公与协作",
+   "文档与办公"
+  ],
+  "redpandacompress.com": [
+   "工具与效率",
+   "在线转换"
+  ],
+  "reecho.ai": [
+   "AI 人工智能",
+   "语音与音乐"
+  ],
+  "relaywatch.online": [
+   "AI 人工智能",
+   "API与平台"
+  ],
+  "remove.photos": [
+   "AI 人工智能",
+   "图像生成与编辑"
+  ],
+  "replaymod.com": [
+   "游戏与电竞",
+   "MOD模组与百科"
+  ],
+  "reuters.com": [
+   "金融与理财",
+   "财经资讯"
+  ],
+  "riotgames.com": [
+   "游戏与电竞",
+   "游戏平台"
+  ],
+  "rre36.com": [
+   "游戏与电竞",
+   "光影与材质"
+  ],
+  "ruancang.net": [
+   "工具与效率",
+   "软件下载"
+  ],
+  "runconvert.com": [
+   "工具与效率",
+   "在线转换"
+  ],
+  "runninghub.cn": [
+   "AI 人工智能",
+   "视频生成"
+  ],
+  "runoob.com": [
+   "开发与编程",
+   "教程文档"
+  ],
+  "runwayml.com": [
+   "AI 人工智能",
+   "视频生成"
+  ],
+  "sapphire.icu": [
+   "壁纸与美化",
+   "桌面美化"
+  ],
+  "saveany.cn": [
+   "工具与效率",
+   "下载与解析"
+  ],
+  "scholar.google.com": [
+   "阅读与知识",
+   "学术文献"
+  ],
+  "seedhub.cc": [
+   "视频与直播",
+   "在线影视"
+  ],
+  "segmentfault.com": [
+   "开发与编程",
+   "技术社区"
+  ],
+  "shejibaozang.com": [
+   "设计与创意",
+   "视频剪辑"
+  ],
+  "shimo.im": [
+   "办公与协作",
+   "在线文档"
+  ],
+  "shiyun.cohenjikan.com": [
+   "AI 人工智能",
+   "AI教程与导航"
+  ],
+  "shots.so": [
+   "设计与创意",
+   "素材资源"
+  ],
+  "shrill-pond-3e81.hunsh.workers.dev": [
+   "开发与编程",
+   "GitHub 项目"
+  ],
+  "signin.volcengine.com": [
+   "AI 人工智能",
+   "API与平台"
+  ],
+  "siliconflow.cn": [
+   "AI 人工智能",
+   "API与平台"
+  ],
+  "sina.com.cn": [
+   "搜索与门户",
+   "综合门户"
+  ],
+  "sketchfab.com": [
+   "设计与创意",
+   "3D模型"
+  ],
+  "skillhub.cn": [
+   "AI 人工智能",
+   "技能与生态"
+  ],
+  "skillsmp.com": [
+   "AI 人工智能",
+   "技能与生态"
+  ],
+  "sm.cn": [
+   "搜索与门户",
+   "搜索引擎"
+  ],
+  "smallpdf.com": [
+   "工具与效率",
+   "在线转换"
+  ],
+  "smzdm.com": [
+   "购物与电商",
+   "购物指南"
+  ],
+  "snapsave.app": [
+   "工具与效率",
+   "下载与解析"
+  ],
+  "so.com": [
+   "搜索与门户",
+   "搜索引擎"
+  ],
+  "socpk.com": [
+   "游戏与电竞",
+   "硬件与外设"
+  ],
+  "soft.3dmgame.com": [
+   "游戏与电竞",
+   "游戏MOD与工具"
+  ],
+  "sogou.com": [
+   "搜索与门户",
+   "搜索引擎"
+  ],
+  "sohu.com": [
+   "搜索与门户",
+   "综合门户"
+  ],
+  "solidot.org": [
+   "新闻资讯",
+   "科技资讯"
+  ],
+  "sora.com": [
+   "AI 人工智能",
+   "视频生成"
+  ],
+  "soundcloud.com": [
+   "音乐与音频",
+   "海外音乐"
+  ],
+  "spark.lucko.me": [
+   "游戏与电竞",
+   "启动器与工具"
+  ],
+  "spotify.com": [
+   "音乐与音频",
+   "海外音乐"
+  ],
+  "sspai.com": [
+   "社交与社区",
+   "技术社区"
+  ],
+  "sss.yhtshe.com": [
+   "游戏与电竞",
+   "光影与材质"
+  ],
+  "stable-diffusion": [
+   "AI 人工智能",
+   "图像生成"
+  ],
+  "stackoverflow.com": [
+   "开发与编程",
+   "海外问答"
+  ],
+  "stats.gov.cn": [
+   "政府与公共",
+   "政务服务"
+  ],
+  "steamdb.info": [
+   "游戏与电竞",
+   "游戏工具"
+  ],
+  "steampowered.com": [
+   "游戏与电竞",
+   "游戏平台"
+  ],
+  "store.steampowered.com": [
+   "游戏与电竞",
+   "游戏平台"
+  ],
+  "stripe.com": [
+   "金融与理财",
+   "支付收款"
+  ],
+  "study.163.com": [
+   "教育与学习",
+   "在线教育"
+  ],
+  "stwy0716.github.io": [
+   "阅读与知识",
+   "小说阅读"
+  ],
+  "suning.com": [
+   "购物与电商",
+   "综合电商"
+  ],
+  "sunlogin.com": [
+   "工具与效率",
+   "远程控制"
+  ],
+  "suno.com": [
+   "AI 人工智能",
+   "语音与音乐"
+  ],
+  "sv-extractor.itcox.cn": [
+   "工具与效率",
+   "下载与解析"
+  ],
+  "svip.iocoder.cn": [
+   "开发与编程",
+   "教程文档"
+  ],
+  "switch618.com": [
+   "游戏与电竞",
+   "游戏下载资源"
+  ],
+  "taichu-web.ia.ac.cn": [
+   "AI 人工智能",
+   "对话与助手"
+  ],
+  "tailscale.com": [
+   "工具与效率",
+   "网络工具"
+  ],
+  "taobao.com": [
+   "购物与电商",
+   "综合电商"
+  ],
+  "taptap.cn": [
+   "游戏与电竞",
+   "游戏平台"
+  ],
+  "teamviewer.com": [
+   "工具与效率",
+   "远程控制"
+  ],
+  "techchris.org": [
+   "办公与协作",
+   "文档与办公"
+  ],
+  "tenminutesmail.net": [
+   "工具与效率",
+   "临时邮箱"
+  ],
+  "texttospeech.im": [
+   "AI 人工智能",
+   "语音与音乐"
+  ],
+  "texture-packs.com": [
+   "游戏与电竞",
+   "光影与材质"
+  ],
+  "tiangong.cn": [
+   "办公与协作",
+   "文档与办公"
+  ],
+  "tianya.cn": [
+   "社交与社区",
+   "贴吧论坛"
+  ],
+  "tieba.baidu.com": [
+   "社交与社区",
+   "贴吧论坛"
+  ],
+  "tikdd.cc": [
+   "工具与效率",
+   "下载与解析"
+  ],
+  "tiktok.com": [
+   "社交与社区",
+   "海外社交"
+  ],
+  "tinypng.com": [
+   "工具与效率",
+   "图片压缩"
+  ],
+  "tiqu.cc": [
+   "工具与效率",
+   "下载与解析"
+  ],
+  "tmall.com": [
+   "购物与电商",
+   "综合电商"
+  ],
+  "todesk.com": [
+   "工具与效率",
+   "远程控制"
+  ],
+  "tongyi.com": [
+   "AI 人工智能",
+   "对话与助手"
+  ],
+  "tool.browser.qq.com": [
+   "工具与效率",
+   "效率小工具"
+  ],
+  "tool.liumingye.cn": [
+   "音乐与音频",
+   "音乐工具"
+  ],
+  "tool.maxiaobang.com": [
+   "工具与效率",
+   "下载与解析"
+  ],
+  "tools.liumingye.cn": [
+   "音乐与音频",
+   "音乐工具"
+  ],
+  "tools.nwumba.cn": [
+   "工具与效率",
+   "系统工具"
+  ],
+  "tools.pdf24.org": [
+   "工具与效率",
+   "在线转换"
+  ],
+  "toolskithub.com": [
+   "工具与效率",
+   "下载与解析"
+  ],
+  "top.baidu.com": [
+   "工具与效率",
+   "数据指数"
+  ],
+  "tophub.today": [
+   "新闻资讯",
+   "资讯聚合"
+  ],
+  "topic.expreview.com": [
+   "游戏与电竞",
+   "硬件与外设"
+  ],
+  "toutiao.com": [
+   "新闻资讯",
+   "资讯聚合"
+  ],
+  "translate.google.com": [
+   "工具与效率",
+   "翻译工具"
+  ],
+  "travellerspoint.com": [
+   "旅游与出行",
+   "旅游攻略"
+  ],
+  "travelpulse.com": [
+   "旅游与出行",
+   "旅游攻略"
+  ],
+  "tripadvisor.com": [
+   "旅游与出行",
+   "旅游攻略"
+  ],
+  "tripo3d.ai": [
+   "AI 人工智能",
+   "图像生成与编辑"
+  ],
+  "ttsmaker.cn": [
+   "AI 人工智能",
+   "语音与音乐"
+  ],
+  "tuniu.com": [
+   "旅游与出行",
+   "在线旅游"
+  ],
+  "turbosquid.com": [
+   "设计与创意",
+   "3D模型"
+  ],
+  "tuxun.fun": [
+   "工具与效率",
+   "效率小工具"
+  ],
+  "tv.sohu.com": [
+   "视频与直播",
+   "在线视频"
+  ],
+  "tw.annas-archive.org": [
+   "阅读与知识",
+   "电子书与文档库"
+  ],
+  "twitch.tv": [
+   "视频与直播",
+   "海外直播"
+  ],
+  "twitter.com": [
+   "社交与社区",
+   "海外社交"
+  ],
+  "udemy.com": [
+   "教育与学习",
+   "在线教育"
+  ],
+  "udl8rgc1op.feishu.cn": [
+   "网盘与存储",
+   "网盘与文件共享"
+  ],
+  "uhdpaper.com": [
+   "壁纸与美化",
+   "壁纸网站"
+  ],
+  "uniapp.dcloud.net.cn": [
+   "开发与编程",
+   "uni-app"
+  ],
+  "union.jd.com": [
+   "购物与电商",
+   "联盟推广"
+  ],
+  "universalbus.cn": [
+   "工具与效率",
+   "网络工具"
+  ],
+  "unsplash.com": [
+   "设计与创意",
+   "图库素材"
+  ],
+  "upupoo.com": [
+   "壁纸与美化",
+   "桌面美化"
+  ],
+  "urlc.cn": [
+   "工具与效率",
+   "短链接"
+  ],
+  "us.gamesplanet.com": [
+   "游戏与电竞",
+   "游戏下载资源"
+  ],
+  "usegalileo.ai": [
+   "AI 人工智能",
+   "设计与创意"
+  ],
+  "user.xing-yun-1.com": [
+   "工具与效率",
+   "网络工具"
+  ],
+  "uupm.cc": [
+   "AI 人工智能",
+   "技能与生态"
+  ],
+  "v.qq.com": [
+   "视频与直播",
+   "在线视频"
+  ],
+  "v2ex.com": [
+   "社交与社区",
+   "技术社区"
+  ],
+  "vendors.paddle.com": [
+   "金融与理财",
+   "支付收款"
+  ],
+  "vercel.com": [
+   "开发与编程",
+   "云服务"
+  ],
+  "viarotel.eu.org": [
+   "工具与效率",
+   "远程控制"
+  ],
+  "video.online-convert.com": [
+   "工具与效率",
+   "在线转换"
+  ],
+  "vidu.studio": [
+   "AI 人工智能",
+   "视频生成"
+  ],
+  "vimeo.com": [
+   "视频与直播",
+   "海外视频"
+  ],
+  "vip.com": [
+   "购物与电商",
+   "综合电商"
+  ],
+  "virscan.org": [
+   "工具与效率",
+   "安全检测"
+  ],
+  "virusscan.jotti.org": [
+   "工具与效率",
+   "安全检测"
+  ],
+  "virustotal.com": [
+   "工具与效率",
+   "安全检测"
+  ],
+  "visualstudio.com": [
+   "开发与编程",
+   "开发工具"
+  ],
+  "vocal.media": [
+   "阅读与知识",
+   "海外阅读"
+  ],
+  "w3school.com.cn": [
+   "开发与编程",
+   "教程文档"
+  ],
+  "wallhaven.cc": [
+   "壁纸与美化",
+   "壁纸网站"
+  ],
+  "wallhere.com": [
+   "壁纸与美化",
+   "壁纸网站"
+  ],
+  "wallstreetcn.com": [
+   "金融与理财",
+   "财经资讯"
+  ],
+  "wanfangdata.com.cn": [
+   "阅读与知识",
+   "学术文献"
+  ],
+  "wc-2026.com": [
+   "新闻资讯",
+   "体育"
+  ],
+  "weather.com.cn": [
+   "工具与效率",
+   "天气查询"
+  ],
+  "web.baimiaoapp.com": [
+   "办公与协作",
+   "文档与办公"
+  ],
+  "wegame.com": [
+   "游戏与电竞",
+   "游戏平台"
+  ],
+  "weibo.com": [
+   "社交与社区",
+   "微博与社交"
+  ],
+  "weiyun.com": [
+   "网盘与存储",
+   "微云"
+  ],
+  "weread.qq.com": [
+   "阅读与知识",
+   "电子书"
+  ],
+  "wetransfer.com": [
+   "网盘与存储",
+   "文件传输"
+  ],
+  "wikipedia.org": [
+   "阅读与知识",
+   "百科知识"
+  ],
+  "woodo.cn": [
+   "办公与协作",
+   "PPT与模板"
+  ],
+  "worldnomads.com": [
+   "旅游与出行",
+   "旅游攻略"
+  ],
+  "worldtravelguide.net": [
+   "旅游与出行",
+   "旅游攻略"
+  ],
+  "wormhole.app": [
+   "网盘与存储",
+   "文件传输"
+  ],
+  "wps.cn": [
+   "办公与协作",
+   "办公套件"
+  ],
+  "wszyk.cn": [
+   "设计与创意",
+   "素材资源"
+  ],
+  "ww.cyhaoka.vip": [
+   "工具与效率",
+   "系统工具"
+  ],
+  "wws.lanzouj.com": [
+   "工具与效率",
+   "下载与解析"
+  ],
+  "wwwm.lanzoue.com": [
+   "工具与效率",
+   "下载与解析"
+  ],
+  "x.ai": [
+   "AI 人工智能",
+   "对话与助手"
+  ],
+  "x.com": [
+   "社交与社区",
+   "海外社交"
+  ],
+  "xbox.com": [
+   "游戏与电竞",
+   "游戏平台"
+  ],
+  "xcar.com.cn": [
+   "旅游与出行",
+   "汽车资讯"
+  ],
+  "xdf.cn": [
+   "教育与学习",
+   "教育培训"
+  ],
+  "xfhyjd.119.gov.cn": [
+   "教育与学习",
+   "学习教育"
+  ],
+  "xfyun.cn": [
+   "AI 人工智能",
+   "对话与助手"
+  ],
+  "xfyzyyb.xyz": [
+   "工具与效率",
+   "资源导航"
+  ],
+  "xiachufang.com": [
+   "美食与生活",
+   "菜谱美食"
+  ],
+  "xianyu": [
+   "购物与电商",
+   "二手交易"
+  ],
+  "xiaohongshu.com": [
+   "社交与社区",
+   "兴趣社区"
+  ],
+  "xiaozhu.com": [
+   "旅游与出行",
+   "住宿预订"
+  ],
+  "xigua.com": [
+   "视频与直播",
+   "短视频直播"
+  ],
+  "ximalaya.com": [
+   "音乐与音频",
+   "有声电台"
+  ],
+  "xinhuanet.com": [
+   "新闻资讯",
+   "综合新闻"
+  ],
+  "xl02.com.de": [
+   "视频与直播",
+   "在线影视"
+  ],
+  "xmsj.org": [
+   "音乐与音频",
+   "音乐工具"
+  ],
+  "xn--z7x900a.com": [
+   "工具与效率",
+   "效率小工具"
+  ],
+  "xpuzi.com": [
+   "办公与协作",
+   "PPT与模板"
+  ],
+  "xtdowner.com": [
+   "工具与效率",
+   "下载与解析"
+  ],
+  "xuanshu.hep.com.cn": [
+   "教育与学习",
+   "学习教育"
+  ],
+  "xueqiu.com": [
+   "金融与理财",
+   "股票基金"
+  ],
+  "xuetangx.com": [
+   "教育与学习",
+   "在线教育"
+  ],
+  "xywy.com": [
+   "医疗与健康",
+   "在线医疗"
+  ],
+  "y.qq.com": [
+   "音乐与音频",
+   "在线音乐"
+  ],
+  "yandex.com": [
+   "搜索与门户",
+   "搜索引擎"
+  ],
+  "yemao.in": [
+   "工具与效率",
+   "资源导航"
+  ],
+  "yiche.com": [
+   "旅游与出行",
+   "汽车资讯"
+  ],
+  "yinfans.net": [
+   "视频与直播",
+   "影视与音乐下载"
+  ],
+  "yingtu.ai": [
+   "AI 人工智能",
+   "图像生成与编辑"
+  ],
+  "yiyan.baidu.com": [
+   "AI 人工智能",
+   "对话与助手"
+  ],
+  "yjpoo.com": [
+   "AI 人工智能",
+   "AI教程与导航"
+  ],
+  "youdao.com": [
+   "工具与效率",
+   "翻译工具"
+  ],
+  "youku.com": [
+   "视频与直播",
+   "在线视频"
+  ],
+  "youtube.com": [
+   "视频与直播",
+   "在线视频"
+  ],
+  "youxiaohou.com": [
+   "工具与效率",
+   "效率工具"
+  ],
+  "yp.laosu.xyz": [
+   "网盘与存储",
+   "网盘搜索"
+  ],
+  "ysjf.com": [
+   "设计与创意",
+   "素材资源"
+  ],
+  "yuanbao.tencent.com": [
+   "AI 人工智能",
+   "对话与助手"
+  ],
+  "yunso.net": [
+   "网盘与存储",
+   "网盘搜索"
+  ],
+  "yuque.com": [
+   "办公与协作",
+   "在线文档"
+  ],
+  "yyjingyan.com": [
+   "办公与协作",
+   "效率工具"
+  ],
+  "z-librarywzb.github.io": [
+   "游戏与电竞",
+   "游戏下载资源"
+  ],
+  "zalithlauncher.cn": [
+   "游戏与电竞",
+   "启动器与工具"
+  ],
+  "zcool.com.cn": [
+   "设计与创意",
+   "设计社区"
+  ],
+  "zen.duplink.xyz": [
+   "工具与效率",
+   "下载与解析"
+  ],
+  "zerotier.com": [
+   "工具与效率",
+   "网络工具"
+  ],
+  "zfansite": [
+   "工具与效率",
+   "系统工具"
+  ],
+  "zh-cn.namemc.com": [
+   "游戏与电竞",
+   "皮肤与角色"
+  ],
+  "zh.okaapps.com": [
+   "视频与直播",
+   "影视与音乐下载"
+  ],
+  "zh.wikipedia.org": [
+   "阅读与知识",
+   "百科知识"
+  ],
+  "zhenxingdongbei.com": [
+   "设计与创意",
+   "视频剪辑"
+  ],
+  "zhibo8.cc": [
+   "新闻资讯",
+   "体育"
+  ],
+  "zhihu.com": [
+   "社交与社区",
+   "知识社区"
+  ],
+  "zhihuishu.com": [
+   "教育与学习",
+   "在线教育"
+  ],
+  "zhipuai.cn": [
+   "AI 人工智能",
+   "对话与助手"
+  ],
+  "zhouql.vip": [
+   "工具与效率",
+   "下载与解析"
+  ],
+  "zhuanlan.zhihu.com": [
+   "社交与社区",
+   "知识社区"
+  ],
+  "zhutix.com": [
+   "壁纸与美化",
+   "桌面美化"
+  ],
+  "zitiwang.com": [
+   "设计与创意",
+   "字体资源"
+  ],
+  "znds.com": [
+   "游戏与电竞",
+   "模拟器与串流"
+  ],
+  "zol.com.cn": [
+   "工具与效率",
+   "软件下载"
+  ],
+  "zongheng.com": [
+   "阅读与知识",
+   "网络文学"
+  ],
+  "zoom.us": [
+   "办公与协作",
+   "视频会议"
+  ],
+  "ztxz.org.cn": [
+   "办公与协作",
+   "效率工具"
+  ]
+ },
+ "子规则": {
+  "github.com": [
+   [
+    "iptv|tvbox|影视仓|直播源|alist|xiaoya|小雅",
+    "开发与编程",
+    "IPTV与TVBOX"
+   ],
+   [
+    "skill|mcp|agent",
+    "AI 人工智能",
+    "技能与生态"
+   ],
+   [
+    "scrcpy|easycontrol|远程|投屏|tomato-mirror|手机控制",
+    "工具与效率",
+    "远程控制"
+   ],
+   [
+    "bilibili|b站|bilidown|视频下载|yt-dlp|seal|downloader|dabao",
+    "工具与效率",
+    "下载与解析"
+   ],
+   [
+    "doc_downloader|文库|豆丁|文档下载",
+    "工具与效率",
+    "下载与解析"
+   ],
+   [
+    "balatro|小丑牌",
+    "游戏与电竞",
+    "游戏MOD与工具"
+   ],
+   [
+    "minecraft|我的世界|mcmod|shader|光影|模组|整合包|pcl|启动器|fabric|forge|材质|emotes|replaymod|资源包|steve|modid",
+    "游戏与电竞",
+    "MOD模组与百科"
+   ],
+   [
+    "so-novel|小说|novel|book",
+    "阅读与知识",
+    "小说阅读"
+   ],
+   [
+    "activation|激活|mas|office",
+    "工具与效率",
+    "系统工具"
+   ],
+   [
+    "prompt|sd-|stable diffusion|翻译",
+    "AI 人工智能",
+    "图像生成与编辑"
+   ],
+   [
+    "nfs|gta|forza|极品飞车|游戏",
+    "游戏与电竞",
+    "游戏MOD与工具"
+   ],
+   [
+    "yiyin|水印|照片",
+    "设计与创意",
+    "素材资源"
+   ],
+   [
+    "tailscale|zerotier|network|networking|vpn",
+    "工具与效率",
+    "网络工具"
+   ],
+   [
+    "chat|exporter|weflow|wechat|qq|聊天|analysis",
+    "AI 人工智能",
+    "对话与助手"
+   ]
+  ],
+  "afdian.com": [
+   [
+    "梧桐|药水棒冰|写实|资源包|光影|材质|minecraft|我的世界|整合包|启动器|pcl|森罗|生态|模组|汉化",
+    "游戏与电竞",
+    "MOD模组与百科"
+   ],
+   [
+    "sapphire|美化|桌面",
+    "壁纸与美化",
+    "桌面美化"
+   ],
+   [
+    "游戏|模组",
+    "游戏与电竞",
+    "游戏MOD与工具"
+   ],
+   [
+    "爱发电|afdian",
+    "工具与效率",
+    "系统工具"
+   ]
+  ],
+  "zhuanlan.zhihu.com": [
+   [
+    "书源|小说|阅读自由",
+    "阅读与知识",
+    "小说阅读"
+   ],
+   [
+    "相机|水印",
+    "设计与创意",
+    "素材资源"
+   ],
+   [
+    "chatgpt|gpt|人工智能",
+    "AI 人工智能",
+    "对话与助手"
+   ],
+   [
+    "远程|投屏|串流|电视",
+    "工具与效率",
+    "远程控制"
+   ],
+   [
+    "pdf|下载网页",
+    "工具与效率",
+    "下载与解析"
+   ],
+   [
+    "ocr|office|安装包|激活|恢复|数据",
+    "工具与效率",
+    "系统工具"
+   ],
+   [
+    "codex|chrome|插件|computer",
+    "开发与编程",
+    "代码托管与社区"
+   ]
+  ],
+  "blog.csdn.net": [
+   [
+    "cursor|gpt|chatgpt|人工智能|大模型",
+    "AI 人工智能",
+    "AI教程与导航"
+   ],
+   [
+    "串流|moonlight|sunshine|远程",
+    "工具与效率",
+    "远程控制"
+   ],
+   [
+    "download|manager|neat|idm|下载",
+    "工具与效率",
+    "下载与解析"
+   ],
+   [
+    "python|srun|校园网|代码|编程",
+    "开发与编程",
+    "代码托管与社区"
+   ]
+  ],
+  "bilibili.com": [
+   [
+    "minecraft|我的世界|mc",
+    "游戏与电竞",
+    "MOD模组与百科"
+   ],
+   [
+    "激活|genp|adobe",
+    "工具与效率",
+    "系统工具"
+   ],
+   [
+    "配乐|音乐|无损|音质",
+    "视频与直播",
+    "影视与音乐下载"
+   ],
+   [
+    "mod|模组|nfs|极品飞车",
+    "游戏与电竞",
+    "游戏MOD与工具"
+   ]
+  ],
+  "zhihu.com": [
+   [
+    "书源|小说|阅读自由",
+    "阅读与知识",
+    "小说阅读"
+   ],
+   [
+    "相机|水印",
+    "设计与创意",
+    "素材资源"
+   ],
+   [
+    "chatgpt|gpt|人工智能",
+    "AI 人工智能",
+    "对话与助手"
+   ],
+   [
+    "远程|投屏|串流|电视",
+    "工具与效率",
+    "远程控制"
+   ],
+   [
+    "pdf|下载网页",
+    "工具与效率",
+    "下载与解析"
+   ],
+   [
+    "ocr|office|安装包|激活|恢复|数据",
+    "工具与效率",
+    "系统工具"
+   ],
+   [
+    "codex|chrome|插件|computer",
+    "开发与编程",
+    "代码托管与社区"
+   ]
+  ],
+  "csdn.net": [
+   [
+    "cursor|gpt|chatgpt|人工智能|大模型",
+    "AI 人工智能",
+    "AI教程与导航"
+   ],
+   [
+    "串流|moonlight|sunshine|远程",
+    "工具与效率",
+    "远程控制"
+   ],
+   [
+    "download|manager|neat|idm|下载",
+    "工具与效率",
+    "下载与解析"
+   ],
+   [
+    "python|srun|校园网|代码|编程",
+    "开发与编程",
+    "代码托管与社区"
+   ]
+  ]
+ },
+ "兜底关键词": [
+  [
+   "minecraft|mc百科|mcmod|我的世界|模组|光影|整合包|启动器|材质包|资源包",
+   "游戏与电竞",
+   "MOD模组与百科"
+  ],
+  [
+   "壁纸|wallpaper|动态桌面|美化|桌面",
+   "壁纸与美化",
+   "壁纸网站"
+  ],
+  [
+   "小说|笔趣阁|书源|阅读",
+   "阅读与知识",
+   "小说阅读"
+  ],
+  [
+   "电影|影视|动漫|电视剧|剧|影视库|追剧|蓝光|磁力",
+   "视频与直播",
+   "在线影视"
+  ],
+  [
+   "mp3|音乐|歌曲|车载音乐|无损|dj",
+   "视频与直播",
+   "影视与音乐下载"
+  ],
+  [
+   "zlibrary|图书馆|文献|电子书|pdf 下载|pdf下载",
+   "阅读与知识",
+   "电子书与文档库"
+  ],
+  [
+   "游戏|steam|switch|ps5|破解|联机|单机|gta|nfs|(?:^|[^a-z0-9])mod(?:[^a-z0-9]|$)",
+   "游戏与电竞",
+   "游戏下载资源"
+  ],
+  [
+   "chatgpt|gpt|claude|deepseek|人工智能|大模型|模型|prompt|sora|midjourney|llm",
+   "AI 人工智能",
+   "对话与助手"
+  ],
+  [
+   "ppt|excel|word|办公|文档|模板|课件|课程|教学|考试|教材|论文|学习",
+   "办公与协作",
+   "PPT与模板"
+  ],
+  [
+   "设计|海报|抠图|photoshop|配色|字体|canva|3d|建模|渲染|素材|剪辑|音频|配音|(?<![a-z0-9])ps(?![a-z0-9])",
+   "设计与创意",
+   "图片设计"
+  ],
+  [
+   "下载|解析|工具|在线|转换|pdf|压缩|截图|ocr|网盘|邮箱|远程|vpn|代理|节点|clash",
+   "工具与效率",
+   "在线转换"
+  ],
+  [
+   "github|git|开源|代码|开发|编程",
+   "开发与编程",
+   "代码托管与社区"
+  ],
+  [
+   "菜谱|美食|下厨房|做饭|食谱|烘焙",
+   "美食与生活",
+   "菜谱美食"
+  ],
+  [
+   "健身|运动|keep|瑜伽|跑步|减肥",
+   "医疗与健康",
+   "健身运动"
+  ],
+  [
+   "汽车|买车|4s|车型|汽车之家",
+   "旅游与出行",
+   "汽车资讯"
+  ],
+  [
+   "新闻|资讯|时报|日报|快讯|头条",
+   "新闻资讯",
+   "综合新闻"
+  ],
+  [
+   "股票|基金|理财|银行|支付|比特币|区块链|加密货币",
+   "金融与理财",
+   "股票基金"
+  ],
+  [
+   "购物|商城|买|秒杀|优惠券|正品",
+   "购物与电商",
+   "综合电商"
+  ],
+  [
+   "机票|酒店|旅游|攻略|签证|火车票|民宿",
+   "旅游与出行",
+   "在线旅游"
+  ],
+  [
+   "医院|医生|挂号|药品|健康|养生|疾病",
+   "医疗与健康",
+   "在线医疗"
+  ],
+  [
+   "招聘|求职|简历|猎头|职场",
+   "办公与协作",
+   "招聘求职"
+  ],
+  [
+   "地图|导航|公交|路线",
+   "旅游与出行",
+   "地图导航"
+  ],
+  [
+   "天气|气温|预报",
+   "工具与效率",
+   "天气查询"
+  ],
+  [
+   "字典|词典|翻译|英语|外语",
+   "教育与学习",
+   "外语学习"
+  ],
+  [
+   "菜鸟|教程|学习|课程|mooc|慕课|公开课",
+   "教育与学习",
+   "在线教育"
+  ],
+  [
+   "政务|办事|社保|公积金|税务|政府",
+   "政府与公共",
+   "政务服务"
+  ]
+ ],
+ "网盘域名": [
+  "115.com",
+  "123pan.com",
+  "alipan.com",
+  "aliyundrive.com",
+  "cloud.189.cn",
+  "cowtransfer.com",
+  "lanzn.com",
+  "lanzoue.com",
+  "lanzouj.com",
+  "lanzoux.com",
+  "mega.nz",
+  "pan.baidu.com",
+  "pan.quark.cn",
+  "pan.xfyzyyb.xyz",
+  "pan.xunlei.com",
+  "weiyun.com",
+  "wetransfer.com",
+  "wormhole.app",
+  "yun.139.com"
+ ]
+}

@@ -1,0 +1,27 @@
+# 私人数据与整理产物
+favorites_*.html
+*.scheme.json
+!examples/scheme_template.json
+*_整理后.html
+*_整理后*
+*_整理报告.md
+*_失效清单.csv
+*_存疑清单.csv
+*_重复清单.csv
+
+# 本地/中间文件
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+_work_*
+_skilltest*
+_test*
+.DS_Store
+Thumbs.db
+
+# 编辑器
+.idea/
+.vscode/
+*.swp
