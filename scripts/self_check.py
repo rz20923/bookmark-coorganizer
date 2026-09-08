@@ -1,12 +1,13 @@
 # -*- coding: utf-8 -*-
-"""最小自检：后缀匹配 + 规则加载。失败即 exit 1。"""
+"""Minimal self-check: domain suffix matching + rules load. Exit 1 on failure."""
 import os
 import sys
 
 from organizer import Classifier, domain_candidates, load_rules
 
 HERE = os.path.dirname(os.path.abspath(__file__))
-RULES = os.path.join(HERE, "categories.json")
+SKILL_ROOT = os.path.dirname(HERE)
+RULES = os.path.join(SKILL_ROOT, "categories.json")
 
 
 def test_domain_candidates():
@@ -21,7 +22,7 @@ def test_domain_candidates():
 
 def test_load_and_classify():
     rules = load_rules(RULES)
-    assert rules.get("域名映射"), "categories.json 缺少域名映射"
+    assert rules.get("域名映射"), "categories.json missing 域名映射"
     clf = Classifier(rules)
     c, s, how = clf.classify("GitHub", "https://github.com/demo/repo")
     assert c and how == "域名映射", (c, s, how)

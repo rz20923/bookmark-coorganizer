@@ -1,20 +1,12 @@
 # -*- coding: utf-8 -*-
 """
-收藏夹整理通用引擎 (bookmark-organizer)
-======================================
-适用于任意 Edge/Chrome 收藏夹导出 HTML（Netscape Bookmark 格式）。
-流水线：解析 → 自适应分类 → 失效检测 → 去重 → 三层结构生成 → 报告 → 验证。
+Bookmark organizer engine (bundled with the Cursor/Codex skill).
 
-用法:
-    python organizer.py <收藏夹.html> [--categories categories.json] [--out 前缀]
+Pipeline: parse → classify → optional dead-link check → dedupe → HTML + reports.
+
+    python scripts/organizer.py <bookmarks.html> --inventory
+    python scripts/organizer.py <bookmarks.html> [--categories ...] [--out prefix]
                      [--mode auto|preserve|scheme] [--preview] [--no-check]
-
-特性:
-- 三层结构: 收藏夹栏 → 大类 → 二级分类 → 链接
-- --mode auto: 通用规则库；preserve: 原文件夹；scheme: 路径映射+域名（共创方案）
-- --preview: 只解析+分类，打印摘要，不写文件、不联网
-- 失效检测: 并发 HTTP；403/SSL/5xx 存疑保留；--no-check 跳过
-- 去重: 规范化 URL（去 www/尾斜杠/fragment/ref 参数）。
 """
 import argparse
 import csv
@@ -29,6 +21,10 @@ from collections import Counter, defaultdict
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from html.parser import HTMLParser
 from urllib.parse import urlparse, parse_qs, urlencode
+
+_SCRIPTS_DIR = os.path.dirname(os.path.abspath(__file__))
+_SKILL_ROOT = os.path.dirname(_SCRIPTS_DIR)
+_DEFAULT_CATEGORIES = os.path.join(_SKILL_ROOT, "categories.json")
 
 # ============================================================
 # 1. 解析 Netscape Bookmark HTML
@@ -510,26 +506,90 @@ def print_preview(links, cat_order, samples_per_cat=3):
     print("\n======== 若认可，去掉 --preview 正式运行 ========")
 
 
+def _domain_of(url):
+    try:
+        host = (urlparse(url).netloc or "").lower()
+    except Exception:
+        return ""
+    if host.startswith("www."):
+        host = host[4:]
+    return host
+
+
+def print_inventory(links, samples_per_folder=5, top_domains=40):
+    """盘点用：只打印，不写文件。"""
+    print("======== 盘点（未写文件、未分类、未联网）========")
+    print(f"总链接: {len(links)}")
+    domains = Counter(_domain_of(l["url"]) for l in links if _domain_of(l["url"]))
+    print(f"独立域名: {len(domains)}")
+
+    by_path = defaultdict(list)
+    for l in links:
+        by_path[l["path"] or "(root)"].append(l)
+
+    print("\n## 原文件夹")
+    for path, ls in sorted(by_path.items(), key=lambda x: (-len(x[1]), x[0])):
+        print(f"\n### {path}（{len(ls)}）")
+        for l in ls[:samples_per_folder]:
+            dom = _domain_of(l["url"])
+            print(f"  - {l['name'][:70]}  [{dom}]")
+        if len(ls) > samples_per_folder:
+            print(f"  … 另有 {len(ls) - samples_per_folder} 条")
+
+    print("\n## 高频域名")
+    for dom, n in domains.most_common(top_domains):
+        examples = [l["name"][:40] for l in links if _domain_of(l["url"]) == dom][:2]
+        ex = " | ".join(examples)
+        print(f"  {n:3d}  {dom}  :: {ex}")
+    print("\n======== 盘点结束；在对话里按簇讨论，勿在工作区写临时脚本 ========")
+
+
+def _ensure_utf8_stdout():
+    try:
+        sys.stdout.reconfigure(encoding="utf-8")
+    except Exception:
+        pass
+
+
+def _default_out_prefix(input_path, out_arg):
+    """产物默认写在输入 HTML 同目录。"""
+    if out_arg:
+        return out_arg
+    base = os.path.splitext(os.path.basename(input_path))[0]
+    parent = os.path.dirname(os.path.abspath(input_path)) or "."
+    return os.path.join(parent, base + "_整理后")
+
+
 # ============================================================
 # 主流程
 # ============================================================
 def main():
+    _ensure_utf8_stdout()
     ap = argparse.ArgumentParser(description="收藏夹整理通用引擎")
     ap.add_argument("input", help="收藏夹 HTML 文件路径")
-    ap.add_argument("--categories", default="categories.json", help="分类规则库 JSON")
-    ap.add_argument("--out", default="", help="输出文件名前缀（默认取输入文件名的 整理后）")
+    ap.add_argument(
+        "--categories",
+        default=_DEFAULT_CATEGORIES,
+        help="Rules JSON (default: $SKILL/categories.json next to this package)",
+    )
+    ap.add_argument("--out", default="", help="输出文件名前缀（默认：输入同目录/<名>_整理后）")
     ap.add_argument("--no-check", action="store_true", help="跳过失效检测")
     ap.add_argument("--mode", choices=("auto", "preserve", "scheme"), default="auto",
                     help="auto=规则库；preserve=原文件夹；scheme=路径映射+规则（自定义方案）")
     ap.add_argument("--preview", action="store_true",
                     help="只预览分类摘要，不写文件、不联网")
+    ap.add_argument("--inventory", action="store_true",
+                    help="只盘点原文件夹/域名到 stdout，不写文件、不联网")
     args = ap.parse_args()
 
-    base = os.path.splitext(os.path.basename(args.input))[0]
-    prefix = args.out or (base + "_整理后")
+    prefix = _default_out_prefix(args.input, args.out)
     print(f"[1/6] 解析 {args.input} ...")
     links, _ = parse_bookmarks(args.input)
     print(f"  共 {len(links)} 条链接")
+
+    if args.inventory:
+        print_inventory(links)
+        return
 
     print(f"[2/6] 分类中（mode={args.mode}）...")
     rules = load_rules(args.categories)
